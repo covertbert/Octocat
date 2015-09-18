@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+a branch is a way to work on changes to a project in a self-contained manner which can than be used to merge back to the master branch or not if the changes are not wanted in the end
