@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+the git clone <repo> command copies specified repository into a directory. By default into the working directory
