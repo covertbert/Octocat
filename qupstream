@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+As far as I understand right now, the upstream remote is usually used to be able to create a way to point to the original repo which you've forked to work on. so rather than pushing changes from local master to fork on github remote, you can push to the original repo from where it was forked
